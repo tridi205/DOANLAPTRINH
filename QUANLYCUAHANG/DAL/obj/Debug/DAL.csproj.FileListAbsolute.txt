@@ -1,0 +1,9 @@
+D:\c#\QUANLYCUAHANG\DAL\bin\Debug\DAL.dll
+D:\c#\QUANLYCUAHANG\DAL\bin\Debug\DAL.pdb
+D:\c#\QUANLYCUAHANG\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\c#\QUANLYCUAHANG\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\c#\QUANLYCUAHANG\DAL\obj\Debug\DAL.dll
+D:\c#\QUANLYCUAHANG\DAL\obj\Debug\DAL.pdb
+D:\c#\QUANLYCUAHANG\DAL\bin\Debug\Entity.dll
+D:\c#\QUANLYCUAHANG\DAL\bin\Debug\Entity.pdb
+D:\c#\QUANLYCUAHANG\DAL\obj\Debug\DAL.csproj.Up2Date

@@ -1,0 +1,11 @@
+D:\c#\QUANLYCUAHANG\BLL\bin\Debug\BLL.dll
+D:\c#\QUANLYCUAHANG\BLL\bin\Debug\BLL.pdb
+D:\c#\QUANLYCUAHANG\BLL\bin\Debug\DAL.dll
+D:\c#\QUANLYCUAHANG\BLL\bin\Debug\DAL.pdb
+D:\c#\QUANLYCUAHANG\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\c#\QUANLYCUAHANG\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\c#\QUANLYCUAHANG\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\c#\QUANLYCUAHANG\BLL\obj\Debug\BLL.dll
+D:\c#\QUANLYCUAHANG\BLL\obj\Debug\BLL.pdb
+D:\c#\QUANLYCUAHANG\BLL\bin\Debug\Entity.dll
+D:\c#\QUANLYCUAHANG\BLL\bin\Debug\Entity.pdb

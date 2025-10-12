@@ -1,0 +1,10 @@
+D:\c#\QUANLYCUAHANG\UI\bin\Debug\UI.exe.config
+D:\c#\QUANLYCUAHANG\UI\bin\Debug\UI.exe
+D:\c#\QUANLYCUAHANG\UI\bin\Debug\UI.pdb
+D:\c#\QUANLYCUAHANG\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+D:\c#\QUANLYCUAHANG\UI\obj\Debug\UI.frm_Main.resources
+D:\c#\QUANLYCUAHANG\UI\obj\Debug\UI.Properties.Resources.resources
+D:\c#\QUANLYCUAHANG\UI\obj\Debug\UI.csproj.GenerateResource.cache
+D:\c#\QUANLYCUAHANG\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+D:\c#\QUANLYCUAHANG\UI\obj\Debug\UI.exe
+D:\c#\QUANLYCUAHANG\UI\obj\Debug\UI.pdb

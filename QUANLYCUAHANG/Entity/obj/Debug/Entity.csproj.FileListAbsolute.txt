@@ -1,0 +1,6 @@
+D:\c#\QUANLYCUAHANG\Entity\bin\Debug\Entity.dll
+D:\c#\QUANLYCUAHANG\Entity\bin\Debug\Entity.pdb
+D:\c#\QUANLYCUAHANG\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+D:\c#\QUANLYCUAHANG\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+D:\c#\QUANLYCUAHANG\Entity\obj\Debug\Entity.dll
+D:\c#\QUANLYCUAHANG\Entity\obj\Debug\Entity.pdb
